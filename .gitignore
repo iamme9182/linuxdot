@@ -1,8 +1,8 @@
 /*
 !.vimrc
-!.vim/
-.vim/undo
 !.vim/undo/filler
+!.vim/
 !.bash*
-.bash_history
 !.gitignore
+.vim/undo
+.bash_history
