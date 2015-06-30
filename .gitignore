@@ -4,6 +4,7 @@
 !.vim/
 !.bash*
 !.gitignore
+!.tmux.conf
 .vim/undo
 .vim/backup
 .vim/swap
