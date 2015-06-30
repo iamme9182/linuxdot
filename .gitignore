@@ -5,4 +5,7 @@
 !.bash*
 !.gitignore
 .vim/undo
+.vim/backup
+.vim/swap
 .bash_history
+
