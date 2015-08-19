@@ -107,4 +107,5 @@ set clipboard=unnamed
 let g:pymode_folding = 0
 let g:pymode_virtualenv = 0
 
-
+"Auto close the doc buffer from pythonmode
+au CompleteDone * pclose
